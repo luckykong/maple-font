@@ -22,7 +22,7 @@
     "cv99": "ignore",
     "ss01": "ignore",
     "ss02": "ignore",
-    "ss03": "enable",
+    "ss03": "ignore",
     "ss04": "ignore",
     "ss05": "ignore",
     "ss06": "ignore",
@@ -41,11 +41,11 @@
     "extra_args": []
   },
   "cn": {
-    "enable": enable,
+    "enable": false,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
-    "narrow": enable,
+    "narrow": false,
     "use_hinted": false,
     "use_static_base_font": true
   }
